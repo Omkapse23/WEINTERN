@@ -1,0 +1,12 @@
+# Compiled Java files
+*.class
+
+# Compiled output folders
+bin/
+
+# VS Code settings
+.vscode/
+
+# IDE files
+.idea/
+*.iml
